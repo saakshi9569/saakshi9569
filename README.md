@@ -13,9 +13,9 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-###
+
+
 
 <h2 align="left">I code with</h2>
 
@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -70,7 +70,7 @@
 
 - 📫 How to reach me **sakshisharma7269@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hTj_h-eoa44NOGMYUiIuYZm0sd2jKrE5/view?usp=sharing](https://drive.google.com/file/d/1hTj_h-eoa44NOGMYUiIuYZm0sd2jKrE5/view?usp=sharing)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
